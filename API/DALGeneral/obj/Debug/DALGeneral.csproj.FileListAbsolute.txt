@@ -1,0 +1,14 @@
+C:\Users\JoséManuel\Documents\Infotec\DALGeneral\bin\Debug\DALGeneral.dll
+C:\Users\JoséManuel\Documents\Infotec\DALGeneral\bin\Debug\DALGeneral.pdb
+C:\Users\JoséManuel\Documents\Infotec\DALGeneral\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JoséManuel\Documents\Infotec\DALGeneral\obj\Debug\DALGeneral.dll
+C:\Users\JoséManuel\Documents\Infotec\DALGeneral\obj\Debug\DALGeneral.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\bin\Debug\DALGeneral.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\bin\Debug\DALGeneral.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\bin\Debug\Entidades.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\bin\Debug\Entidades.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\obj\Debug\DALGeneral.csproj.AssemblyReference.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\obj\Debug\DALGeneral.csproj.CoreCompileInputs.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\obj\Debug\DALGeneral.csproj.CopyComplete
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\obj\Debug\DALGeneral.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\DALGeneral\obj\Debug\DALGeneral.pdb

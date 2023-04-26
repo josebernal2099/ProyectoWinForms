@@ -1,0 +1,6 @@
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\bin\Debug\Entidades.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\obj\Debug\Entidades.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\Entidades\obj\Debug\Entidades.pdb

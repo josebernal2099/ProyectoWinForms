@@ -1,0 +1,15 @@
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe.config
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.exe
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\AplicacionEscritorio.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.AssemblyReference.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.AppCode.Modulos.MainPanel.MDIMenu.resources
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.Properties.Resources.resources
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.GenerateResource.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.exe
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.AppCode.Modulos.Tiendas.frmCatalogoTiendas.resources
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CopyComplete

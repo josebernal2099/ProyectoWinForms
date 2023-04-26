@@ -1,0 +1,11 @@
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\BusinessGeneral.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\BusinessGeneral.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\DALGeneral.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\Entidades.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\DALGeneral.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\bin\Debug\Entidades.pdb
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\obj\Debug\BusinessGeneral.csproj.AssemblyReference.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\obj\Debug\BusinessGeneral.csproj.CoreCompileInputs.cache
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\obj\Debug\BusinessGeneral.csproj.CopyComplete
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\obj\Debug\BusinessGeneral.dll
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\API\BusinessGeneral\obj\Debug\BusinessGeneral.pdb
