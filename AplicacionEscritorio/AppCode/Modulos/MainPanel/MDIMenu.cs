@@ -1,4 +1,5 @@
-﻿using AplicacionEscritorio.AppCode.Modulos.Tiendas;
+﻿using AplicacionEscritorio.AppCode.Modulos.Articulos;
+using AplicacionEscritorio.AppCode.Modulos.Tiendas;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -100,6 +101,13 @@ namespace AplicacionEscritorio.AppCode.Modulos.MainPanel
         private void mnConsultaTiendas_Click(object sender, EventArgs e)
         {
             frmCatalogoTiendas formulario = new frmCatalogoTiendas();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void catálogoDeArticulosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCatalogoArticulos formulario = new frmCatalogoArticulos();
             formulario.MdiParent = this;
             formulario.Show();
         }

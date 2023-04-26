@@ -35,8 +35,12 @@
             // 
             // dgvCatTiendas
             // 
+            this.dgvCatTiendas.AllowUserToAddRows = false;
+            this.dgvCatTiendas.AllowUserToDeleteRows = false;
+            this.dgvCatTiendas.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvCatTiendas.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dgvCatTiendas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvCatTiendas.Location = new System.Drawing.Point(12, 98);
+            this.dgvCatTiendas.Location = new System.Drawing.Point(12, 25);
             this.dgvCatTiendas.Name = "dgvCatTiendas";
             this.dgvCatTiendas.RowHeadersWidth = 62;
             this.dgvCatTiendas.RowTemplate.Height = 28;
@@ -46,7 +50,7 @@
             // lblRegistros
             // 
             this.lblRegistros.AutoSize = true;
-            this.lblRegistros.Location = new System.Drawing.Point(694, 393);
+            this.lblRegistros.Location = new System.Drawing.Point(682, 322);
             this.lblRegistros.Name = "lblRegistros";
             this.lblRegistros.Size = new System.Drawing.Size(94, 20);
             this.lblRegistros.TabIndex = 1;
@@ -56,7 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 373);
             this.Controls.Add(this.lblRegistros);
             this.Controls.Add(this.dgvCatTiendas);
             this.Name = "frmCatalogoTiendas";

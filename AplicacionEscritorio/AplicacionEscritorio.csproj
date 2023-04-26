@@ -51,6 +51,12 @@
   <ItemGroup>
     <Compile Include="ApiHelper\Consumer.cs" />
     <Compile Include="ApiHelper\Reply.cs" />
+    <Compile Include="AppCode\Modulos\Articulos\frmCatalogoArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppCode\Modulos\Articulos\frmCatalogoArticulos.Designer.cs">
+      <DependentUpon>frmCatalogoArticulos.cs</DependentUpon>
+    </Compile>
     <Compile Include="AppCode\Modulos\MainPanel\MDIMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,10 +69,16 @@
     <Compile Include="AppCode\Modulos\Tiendas\frmCatalogoTiendas.Designer.cs">
       <DependentUpon>frmCatalogoTiendas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Entidades\article.cs" />
+    <Compile Include="Entidades\Post.cs" />
+    <Compile Include="Entidades\ResponseArticles.cs" />
     <Compile Include="Entidades\ResponseStores.cs" />
     <Compile Include="Entidades\store.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AppCode\Modulos\Articulos\frmCatalogoArticulos.resx">
+      <DependentUpon>frmCatalogoArticulos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AppCode\Modulos\MainPanel\MDIMenu.resx">
       <DependentUpon>MDIMenu.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +109,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Imagenes\4171329_box_day_delivery_gift_love_icon.png" />
+    <Content Include="Imagenes\60168_catalog_icon.png" />
     <Content Include="Imagenes\7479647_search_magnifier_zoom_magnifying_find_icon.png" />
     <Content Include="Imagenes\87473_store_icon.png" />
   </ItemGroup>

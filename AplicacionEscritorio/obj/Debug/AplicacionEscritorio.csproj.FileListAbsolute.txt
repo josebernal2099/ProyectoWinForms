@@ -13,3 +13,4 @@ C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscri
 C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\bin\Debug\Newtonsoft.Json.xml
 C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.AppCode.Modulos.Tiendas.frmCatalogoTiendas.resources
 C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.csproj.CopyComplete
+C:\Users\jmanu\OneDrive\Documentos\Repositorios\ProyectoWinForms\AplicacionEscritorio\obj\Debug\AplicacionEscritorio.AppCode.Modulos.Articulos.frmCatalogoArticulos.resources
